@@ -1,5 +1,5 @@
 ################################### Default Configuration ############################
-baseurl = "https://www.reverent-easley-f91dbf.netlify.com/"
+baseurl = "https://reverent-easley-f91dbf.netlify.com/"
 languageCode = "en"
 title = "Vex"
 theme = "vex-hugo-master"
